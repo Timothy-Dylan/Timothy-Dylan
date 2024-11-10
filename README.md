@@ -14,4 +14,4 @@ My experiences:
 
 Oh and if you want to know what "kuttetikken" means. Here is a game
 
-![rebus](https://github.com/user-attachments/assets/ae4671e3-1319-48f2-855a-77f6f2b685bd)
+![rebus](https://github.com/user-attachments/assets/43709445-7f90-4aed-877b-ee9e14cfe328)
