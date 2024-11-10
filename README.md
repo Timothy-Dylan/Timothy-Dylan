@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 Its me, Mario
 
-<!--
-**Timothy-Dylan/Timothy-Dylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a human, obviously. I do "kuttetikken". I'm often called Jr., teenager or young adult. My daily doing is "kuttetikken" and trying to think of something stupid to do.
 
-Here are some ideas to get you started:
+If you visit this. Great job! Most of my things are private 😘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experiences:
+- PHP (Beginner)
+- LUA (Wise Man)
+- HTML (Eh, Fine)
+- CSS (Eh, Fine)
+- JS (newbie, trying to learn)
+- Python (Eh, Fine)
+
+Oh and if you want to know what "kuttetikken" means. Here is a game
+
+![rebus](https://github.com/user-attachments/assets/ae4671e3-1319-48f2-855a-77f6f2b685bd)
