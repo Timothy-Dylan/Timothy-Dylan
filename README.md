@@ -10,8 +10,9 @@ My experiences:
 - HTML (Eh, Fine)
 - CSS (Eh, Fine)
 - JS (newbie, trying to learn)
-- Python (Eh, Fine)
-- C (Eh, Fine)
+- Python (Beginner)
+- C (Beginner)
+- C# (TODO)
 
 Oh and if you want to know what "kuttetikken" means. Here is a game
 
