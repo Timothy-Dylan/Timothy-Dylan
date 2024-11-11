@@ -11,7 +11,7 @@ My experiences:
 - CSS (Eh, Fine)
 - JS (newbie, trying to learn)
 - Python (Eh, Fine)
-- C (Trying to learn)
+- C (Eh, Fine)
 
 Oh and if you want to know what "kuttetikken" means. Here is a game
 
