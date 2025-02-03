@@ -1,6 +1,6 @@
 ## Hi there 👋 Its me, Mario
 
-I'm a human, obviously. I do "kuttetikken". I'm often called Jr., teenager or young adult. My daily doing is "kuttetikken" and trying to think of something stupid to do.
+I'm a human, obviously. I do "kuttetikken". I'm often called jr. My daily doing is "kuttetikken" and trying to think of something stupid to do.
 
 If you visit this. Great job! Most of my things are private 😘
 
@@ -9,11 +9,10 @@ My experiences:
 - LUA (Wise Man)
 - HTML (Eh, Fine)
 - CSS (Eh, Fine)
-- JS (newbie, trying to learn)
-- Python (Beginner)
-- C (Beginner)
-- C# (TODO)
+- JS (Basics)
+- Python (Basics)
 
 Oh and if you want to know what "kuttetikken" means. Here is a game
 
 ![rebus](https://github.com/user-attachments/assets/43709445-7f90-4aed-877b-ee9e14cfe328)
+![ko-fi](https://ko-fi.com/timothyy_)
