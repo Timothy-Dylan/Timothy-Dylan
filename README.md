@@ -15,4 +15,3 @@ My experiences:
 Oh and if you want to know what "kuttetikken" means. Here is a game
 
 ![rebus](https://github.com/user-attachments/assets/43709445-7f90-4aed-877b-ee9e14cfe328)
-![ko-fi](https://ko-fi.com/timothyy_)
