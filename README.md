@@ -1,6 +1,6 @@
 ## Hi there 👋 Its me, Mario
 
-I'm a human, obviously. I do "kuttetikken". I'm often called jr. My daily doing is "kuttetikken" and trying to think of something stupid to do.
+I'm a human, I type code as a hobby and i'm enjoying it. Currently most of my time coding is done on FiveM and creating custom resources for the platform.
 
 If you visit this. Great job! Most of my things are private 😘
 
@@ -11,7 +11,3 @@ My experiences:
 - CSS (Eh, Fine)
 - JS (Basics)
 - Python (Basics)
-
-Oh and if you want to know what "kuttetikken" means. Here is a game
-
-![rebus](https://github.com/user-attachments/assets/43709445-7f90-4aed-877b-ee9e14cfe328)
